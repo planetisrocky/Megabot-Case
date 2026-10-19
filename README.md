@@ -11,3 +11,5 @@ This update covers the CAD models and 3D enclosure for the custom PCB designed i
 ## Notes & Known Issues
 * **Ball Sockets:** Ball sockets were removed from this revision to fix alignment issues with the PCB layout.
 * **Fit & Tolerances:** The enclosure fit came out slightly loose. Superglue will be used to hold the shell together for this build.
+
+![Overview](Screenshot 2026-10-18 234520.png)
