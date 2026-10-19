@@ -1,0 +1,13 @@
+# Half-Life: Week 2 - CAD Files
+
+## Overview
+This update covers the CAD models and 3D enclosure for the custom PCB designed in Week 1.
+
+## Files Included
+* STEP models (3D assembly)
+* STL files (ready for 3D printing)
+* Primary shell and case files
+
+## Notes & Known Issues
+* **Ball Sockets:** Ball sockets were removed from this revision to fix alignment issues with the PCB layout.
+* **Fit & Tolerances:** The enclosure fit came out slightly loose. Superglue will be used to hold the shell together for this build.
